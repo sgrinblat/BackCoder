@@ -6,11 +6,11 @@ Lo mismo que he acumulado más lo definido aquí abajo
 
 - Creamos un nuevo usuario
 
-<img src="../Desafio18/imagesreadme/nuevoRegistro" alt="Nuevo usuario ejemplo"/>
+<img src="../Desafio18/imagesreadme/nuevoRegistro.png" alt="Nuevo usuario ejemplo"/>
 
 - Observamos que se ha creado un nuevo documento en nuestra base de Mongo, además la contraseña está encriptada
 
-<img src="../Desafio18/imagesreadme/nuevoUsuarioPass.png.png" alt="Contraseña encriptada ejemplo"/>
+<img src="../Desafio18/imagesreadme/nuevoUsuarioPass.png" alt="Contraseña encriptada ejemplo"/>
 
 - Recibimos un correo electrónico informando el UUID y fecha en la que se ha generado este usuario.
 
