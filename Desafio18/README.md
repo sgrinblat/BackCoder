@@ -1,6 +1,10 @@
 # Desafío 18 - Tercera entrega del proyecto final
-Lo mismo que he acumulado más lo definido aquí abajo
+
+Deberás entregar el avance de tu aplicación eCommerce Backend correspondiente a la tercera entrega de tu proyecto final.
+
 ----
+
+Lo mismo que he acumulado más lo definido aquí abajo
 
 ## Registro de usuarios y aviso por email de la operación
 
