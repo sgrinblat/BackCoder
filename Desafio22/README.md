@@ -41,11 +41,11 @@ Para acceder a GraphiQL ingresa a
 
 #### Ejemplo de una mutación (crear un nuevo producto)
 
-<img src="../Entrega-22/newProductGraphQl.png" width="900px" alt="Nuevo producto con graphql"/>
+<img src="../Desafio22/newProductGraphQl.png" width="900px" alt="Nuevo producto con graphql"/>
 
 #### Ejemplo de una query
 
-<img src="../Entrega-22/allProductsGraphQl.png" alt="Todos los productos con graphql"/>
+<img src="../Desafio22/allProductsGraphQl.png" alt="Todos los productos con graphql"/>
 
 # Autor
 Santiago Grinblat
